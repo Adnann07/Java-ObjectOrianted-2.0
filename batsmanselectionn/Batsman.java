@@ -5,7 +5,7 @@
 package batsmanselectionn;
 
 /**
- *
+ 
  * @author HP
  */
 public class Batsman {
